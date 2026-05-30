@@ -1,0 +1,4 @@
+Hello world!
+It's a beautiful day!
+This file is written without a context manager.
+Appending a new line to the file.
